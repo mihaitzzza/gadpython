@@ -2,6 +2,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 from web_scrapper_handlers.extract_table_data import get_team_from_table_row
+import main.py
 
 
 URL = 'https://lpf.ro/liga-1'
